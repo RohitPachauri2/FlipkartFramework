@@ -1,0 +1,14 @@
+version: "3.3"
+
+services:
+  flipkart-automation:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: flipkart-automation-container
+    image: flipkart-automation:latest
+    restart: "no"
+    environment:
+      - JAVA_OPTS=-Xms256m -Xmx512m
+    volumes:
+      - ./logs:/app/logs
