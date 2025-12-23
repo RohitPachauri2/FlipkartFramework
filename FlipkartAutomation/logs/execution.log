@@ -3639,3 +3639,143 @@
 2025-12-17 08:51:50 [main] INFO  Baseclass.libarrayclass - Searched for: books
 2025-12-17 08:52:05 [main] INFO  Baseclass.libarrayclass - Searched for: tv
 2025-12-17 08:52:25 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-12-19 08:46:40 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-12-19 08:46:40 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-12-19 08:46:44 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-12-19 08:46:44 [main] INFO  Baseclass.libarrayclass - Maximized the browser
+2025-12-19 08:46:45 [main] INFO  Baseclass.libarrayclass - Navigated to URL: https://www.flipkart.com/
+2025-12-19 08:46:45 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:46:45 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:46:46 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-12-19 08:48:31 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-12-19 08:48:31 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-12-19 08:48:33 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-12-19 08:48:33 [main] INFO  Baseclass.libarrayclass - Maximized the browser
+2025-12-19 08:48:34 [main] INFO  Baseclass.libarrayclass - Navigated to URL: https://www.flipkart.com/
+2025-12-19 08:48:34 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:48:34 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:48:35 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-12-19 08:49:12 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-12-19 08:49:12 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-12-19 08:49:13 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-12-19 08:49:13 [main] INFO  Baseclass.libarrayclass - Maximized the browser
+2025-12-19 08:49:14 [main] INFO  Baseclass.libarrayclass - Navigated to URL: https://www.flipkart.com/
+2025-12-19 08:49:15 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:49:15 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:49:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:49:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:49:26 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:49:26 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:49:31 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:49:31 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:49:36 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-19 08:49:36 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-19 08:49:42 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-12-23 07:50:09 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-12-23 07:50:09 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-12-23 07:50:12 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-12-23 07:50:13 [main] INFO  Baseclass.libarrayclass - Maximized the browser
+2025-12-23 07:50:14 [main] INFO  Baseclass.libarrayclass - Navigated to URL: https://www.flipkart.com/
+2025-12-23 07:50:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:50:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:50:21 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:50:21 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:50:26 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:50:26 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:50:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:50:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:50:45 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-12-23 07:51:09 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-12-23 07:51:09 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-12-23 07:51:11 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-12-23 07:51:12 [main] INFO  Baseclass.libarrayclass - Maximized the browser
+2025-12-23 07:51:14 [main] INFO  Baseclass.libarrayclass - Navigated to URL: https://www.flipkart.com/
+2025-12-23 07:51:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:51:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:51:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:51:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 07:51:26 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 07:51:26 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:20 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-12-23 08:05:20 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-12-23 08:05:22 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-12-23 08:05:22 [main] INFO  Baseclass.libarrayclass - Maximized the browser
+2025-12-23 08:05:23 [main] INFO  Baseclass.libarrayclass - Navigated to URL: https://www.flipkart.com/
+2025-12-23 08:05:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+2025-12-23 08:05:28 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+2025-12-23 08:05:29 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:29 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+2025-12-23 08:05:33 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+2025-12-23 08:05:35 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:35 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+2025-12-23 08:05:39 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+2025-12-23 08:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+2025-12-23 08:05:45 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+2025-12-23 08:05:46 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:46 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+2025-12-23 08:05:50 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+2025-12-23 08:05:52 [main] INFO  Baseclass.libarrayclass - Closed Browser

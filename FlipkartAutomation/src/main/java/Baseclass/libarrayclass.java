@@ -44,11 +44,11 @@ public class libarrayclass {
             WebDriverManager.chromedriver().setup();
 
             ChromeOptions options = new ChromeOptions();
-            options.addArguments("--remote-allow-origins=*");
-            options.addArguments("--no-sandbox");
-            options.addArguments("--disable-dev-shm-usage");
-            options.addArguments("--disable-gpu");
-            options.addArguments("--headless=new"); // Headless for Docker
+            //options.addArguments("--remote-allow-origins=*");
+            //options.addArguments("--no-sandbox");
+            //options.addArguments("--disable-dev-shm-usage");
+            //options.addArguments("--disable-gpu");
+            //options.addArguments("--headless=new"); // Headless for Docker
             try {
                 String tempProfileDir = Files.createTempDirectory("chrome-profile").toString();
                 options.addArguments("--user-data-dir=" + tempProfileDir);

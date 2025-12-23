@@ -9,7 +9,8 @@ import io.cucumber.testng.CucumberOptions;
 	    features = "src/test/resources/Features/flipkart.feature",  // Path to feature files
 	    glue = {"Stepdefinitions","Hooks"},                 // Path to step definitions
 	    plugin = {"pretty", "html:target/cucumber-reports.html"},
-	    tags="@tc003"
+	    tags="@new",
+	    dryRun = false
 	)
 	public class CucumberTestNGRunner extends AbstractTestNGCucumberTests {
 

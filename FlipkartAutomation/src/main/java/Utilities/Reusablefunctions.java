@@ -53,6 +53,9 @@ public class Reusablefunctions extends libarrayclass {
 																											// section
 				);
 	}
+	public void navigateback() {
+		driver.navigate().back();
+	}
 
 	public void waitForSearchPage() {
 		new WebDriverWait(driver, Duration.ofSeconds(10))
